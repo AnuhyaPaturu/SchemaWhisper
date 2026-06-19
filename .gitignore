@@ -1,0 +1,10 @@
+# Ignore the environment file containing secrets
+.env
+
+# Ignore the Python virtual environment sandbox
+.venv/
+
+# Ignore local database files and cache
+*.db
+__pycache__/
+.streamlit/
